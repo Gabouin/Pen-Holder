@@ -16,3 +16,12 @@ Second version of the pen holder :
 <img width="902" height="599" alt="Capture d&#39;écran 2025-12-20 010111" src="https://github.com/user-attachments/assets/4342353b-1a4a-495b-92ec-7d6a814a1c0f" />
 <img width="1009" height="642" alt="Capture d&#39;écran 2025-12-20 010100" src="https://github.com/user-attachments/assets/943cf2d6-238f-4eb9-8336-ac387eb4b12f" />
 <img width="912" height="709" alt="Capture d&#39;écran 2025-12-20 010047" src="https://github.com/user-attachments/assets/94bff6fe-f859-4a12-9fb9-b3b378148b20" />
+
+third version of the pen holder : 
+
+<img width="948" height="604" alt="Capture d&#39;écran 2025-12-23 001906" src="https://github.com/user-attachments/assets/86a06d44-26a7-4c1f-a749-a75ce2900d5a" />
+
+Fourth version of the pen holder :
+
+<img width="472" height="517" alt="Capture d&#39;écran 2025-12-23 012535" src="https://github.com/user-attachments/assets/ff9ba72c-0ce9-4d09-81c1-bb2d71205d27" />
+<img width="421" height="553" alt="Capture d&#39;écran 2025-12-23 012554" src="https://github.com/user-attachments/assets/8516bdfe-26f6-4c4b-b4d5-d5b70b4b2211" />
