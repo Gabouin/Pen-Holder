@@ -24,7 +24,9 @@ Fourth version of the pen holder :
 <img width="472" height="517" alt="Capture d&#39;écran 2025-12-23 012535" src="https://github.com/user-attachments/assets/ff9ba72c-0ce9-4d09-81c1-bb2d71205d27" />
 <img width="421" height="553" alt="Capture d&#39;écran 2025-12-23 012554" src="https://github.com/user-attachments/assets/8516bdfe-26f6-4c4b-b4d5-d5b70b4b2211" />
 
-Came back to the original design and just improved it for the fifth version :
+Came back to the original design and just improved it for the fifth version : 
 
 <img width="942" height="642" alt="image" src="https://github.com/user-attachments/assets/c83f4639-d80f-40a1-8745-873c58c82ac4" />
+<img width="535" height="715" alt="image" src="https://github.com/user-attachments/assets/d58e5bb3-eefb-4c56-9604-d2488e07f8e6" />
+
 
